@@ -1,0 +1,16 @@
+Vehículos del cliente Dani Luz:
+
+Órdenes del vehículo aY3198:
+  - Orden 9, Estado: en_proceso, Monto: 101546
+
+Servicios de la orden 8:
+  - había, Precio: 26474
+  - aumento, Precio: 36914
+  - varios, Precio: 38158
+
+Órdenes en progreso:
+  - Orden 8, Vehículo: sj6694
+  - Orden 9, Vehículo: aY3198
+
+Órdenes sin fecha de salida:
+
