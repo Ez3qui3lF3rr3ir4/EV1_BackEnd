@@ -62,4 +62,4 @@ python manage.py runserver
 * Asegúrate de tener activado el entorno virtual antes de instalar paquetes o ejecutar el servidor.
 * Puedes usar `python manage.py migrate` para aplicar migraciones si es la primera vez que ejecutas el proyecto.
 * Crear un superusuario con `python manage.py createsuperuser` si necesitas acceder al panel de administración de Django.
-* Para poblar la base de datos con datos de prueba, puedes usar el comando personalizado de Faker (\`python manage.py seed\_biobi
+* Para poblar la base de datos con datos de prueba, puedes usar el comando personalizado de Faker (python manage.py seed_biobio_motors).
